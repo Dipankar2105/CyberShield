@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![CyberShield Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-demo-video)
+[![CyberShield Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T8Zds-J7KyE)
 
 *Click above to watch the full demo video*
 
