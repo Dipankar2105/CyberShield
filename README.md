@@ -23,37 +23,37 @@
 <div align="center">
 
 ### 🏠 Landing Page
-![Landing Page](./screenshots/landing.jpeg)
+![Landing Page](./screenshots/landing.png)
 
 ### 🔐 Login
-![Login](./screenshots/login.jpeg)
+![Login](./screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.jpeg)
+![Dashboard](./screenshots/dashboard.png)
 
 ### 🔍 Text Analyzer - Scam Detection
-![Text Analyzer](./screenshots/text-analyzer.jpeg)
+![Text Analyzer](./screenshots/text-analyzer.png)
 
 ### 🖼️ Image Analyzer - Screenshot Analysis
-![Image Analyzer](./screenshots/image-analyzer.jpeg)
+![Image Analyzer](./screenshots/image-analyzer.png)
 
 ### 🌐 Phishing Scanner
-![Phishing Scanner](./screenshots/phishing-scanner.jpeg)
+![Phishing Scanner](./screenshots/phishing-scanner.png)
 
 ### 📁 File Scanner
-![File Scanner](./screenshots/file-scanner.jpeg)
+![File Scanner](./screenshots/file-scanner.png)
 
 ### 🔐 Breach Checker
-![Breach Checker](./screenshots/breach-checker.jpeg)
+![Breach Checker](./screenshots/breach-checker.png)
 
 ### 🤖 AI Chat Assistant
-![Chat Assistant](./screenshots/chat-assistant.jpeg)
+![Chat Assistant](./screenshots/chat-assistant.png)
 
 ### 🎮 Simulation Lab - Training Mode
-![Simulation Lab](./screenshots/simulation-lab.jpeg)
+![Simulation Lab](./screenshots/simulation-lab.png)
 
 ### 🗺️ Fraud Map - India Scam Heatmap
-![Fraud Map](./screenshots/fraud-map.jpeg)
+![Fraud Map](./screenshots/fraud-map.png)
 
 </div>
 
